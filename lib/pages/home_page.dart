@@ -802,7 +802,7 @@ class _HomePageState extends BaseScreenLayout<HomePage> {
                           Row(
                             children: [
                               Text(
-                                'I build more private things. If you want to see\nmy public & open source projects, check out my ',
+                                'I built more private things. If you want to see\nmy public & open source projects, check out my ',
                                 style: GoogleFonts.heebo(
                                   color: Color.fromARGB(255, 253, 253, 253),
                                   fontSize: 16,
